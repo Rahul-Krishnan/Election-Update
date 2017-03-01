@@ -1,4 +1,4 @@
-# Project Title
+# Election Update
 
 Election Update is a terminal app that can be used to pull in election polling data so that I can easily see the most relevant information.
 
